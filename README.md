@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" width="100%">
+  <img src="(https://raw.githubusercontent.com/avst-dev/avst-dev/refs/heads/main/wmremove-transformed.jpeg)" width="100%">
 </p>
 
 <p align="center">
